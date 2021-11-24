@@ -8,4 +8,6 @@
 
 ### ERC20 Tokens
 
-<p>Reference</p><https://eips.ethereum.org/EIPS/eip-20>
+<p>Reference</p>
+
+<p>https://eips.ethereum.org/EIPS/eip-20</p>
